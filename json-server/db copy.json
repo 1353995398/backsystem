@@ -1,0 +1,18 @@
+{
+  "goods": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "小米12 Pro 天玑版",
+      "category2": "https://img14.360buyimg.com/n1/s450x450_jfs/t1/208851/36/22956/114964/62c2c0bdEeb94c575/24426b2370ed45ec.jpg.avif",
+      "price": 3499,
+      "buyCount": "14.2万",
+      "category": "https://img11.360buyimg.com/n1/s450x450_jfs/t1/68561/12/16754/102423/62c2c069Ed50d3312/b686bb06c2c98a78.jpg.avif",
+      "desc": "天玑9000+处理器 5000万疾速影像 2K超视感屏 120Hz高刷 67W快充",
+      "shop": "小米官方旗舰店",
+      "shopId": "小米京东自营官方旗舰"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "小米",
+      "price": "1999",
+      "buyCount": "50002",
+      "desc": "为发烧而生"
+    },
+    {
+      "id": 2,
+      "name": "小米12 Pro 天玑版",
+      "category2": "https://img14.360buyimg.com/n1/s450x450_jfs/t1/208851/36/22956/114964/62c2c0bdEeb94c575/24426b2370ed45ec.jpg.avif",
+      "price": "3499",
+      "buyCount": "14.2万",
+      "category": "https://img11.360buyimg.com/n1/s450x450_jfs/t1/68561/12/16754/102423/62c2c069Ed50d3312/b686bb06c2c98a78.jpg.avif",
+      "desc": "天玑9000+处理器 5000万疾速影像 2K超视感屏 120Hz高刷 67W快充",
+      "shop": "小米官方旗舰",
+      "shopId": "小米京东自营官方旗舰"
+    }
+  ],
+  "saleCount": [
+    {
+      "name": "11月1日",
+      "num": "10000"
+    },
+    {
+      "name": "11月2日",
+      "num": "12000"
+    },
+    {
+      "name": "11月3日",
+      "num": "8200"
+    },
+    {
+      "name": "11月4日",
+      "num": "20000"
+    },
+    {
+      "name": "11月5日",
+      "num": "200"
+    },
+    {
+      "name": "11月6日",
+      "num": "9623"
+    },
+    {
+      "name": "11月7日",
+      "num": "5426"
+    }
+  ],
+  "count": [
+    {
+      "name": "今日支付订单",
+      "value": 1234,
+      "icon": "success",
+      "color": "#2ec7c9"
+    },
+    {
+      "name": "今日收藏订单",
+      "value": 210,
+      "icon": "star-on",
+      "color": "#ffb980"
+    },
+    {
+      "name": "今日未支付订单",
+      "value": 1234,
+      "icon": "s-goods",
+      "color": "#5ab1ef"
+    },
+    {
+      "name": "本月支付订单",
+      "value": 1234,
+      "icon": "success",
+      "color": "#2ec7c9"
+    },
+    {
+      "name": "本月收藏订单",
+      "value": 210,
+      "icon": "star-on",
+      "color": "#ffb980"
+    },
+    {
+      "name": "本月未支付订单",
+      "value": 1234,
+      "icon": "s-goods",
+      "color": "#5ab1ef"
+    }
+  ]
+}
